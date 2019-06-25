@@ -1,0 +1,10 @@
+{
+    "presets": [
+        "env"
+    ],
+    "plugins": [
+        "babel-polyfill",
+        "transform-runtime",
+        "transform-object-rest-spread"
+    ]
+}
